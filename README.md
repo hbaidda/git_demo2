@@ -1,1 +1,3 @@
-# git_demo2
+# Git Demo
+
+Repository cloned from the Github remotely.
